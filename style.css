@@ -1,0 +1,37 @@
+body{
+  font-family: 'Indie Flower', cursive;
+  color: #EA2027;
+  text-align: center;
+  font-size: 30px;
+  background-color: #636e72;
+}
+h1{
+  background-color: #2d3436;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 10px;
+}
+
+.barra, input, button{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 30px;
+  border-radius: 50px;
+}
+
+input, button {
+  border: 2px solid #2d3436;
+  background-color: #fff;
+  color: #EA2027;
+}
+
+.proprieta{
+  color: #EA2027;
+  font-size: 30px;
+  background-color: #fff;
+  width: 50%;
+  margin: 60px auto;
+  border-radius: 30px;
+  border: 2px solid #2d3436;
+  display:block;
+}
